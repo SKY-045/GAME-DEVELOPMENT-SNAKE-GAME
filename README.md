@@ -12,6 +12,8 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+# DESCRIPTION
+
 Snake Game Using SFML in C++ — Description
 This C++ program is a classic implementation of the Snake game using the SFML (Simple and Fast Multimedia Library) framework. It demonstrates the principles of game development, including rendering, input handling, collision detection, audio management, and state resetting. The game is visually and interactively engaging, featuring smooth movement, growing mechanics, sound effects, and real-time scoring.
 
