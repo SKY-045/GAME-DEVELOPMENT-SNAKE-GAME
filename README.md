@@ -104,3 +104,6 @@ This introduces a natural difficulty curve as the player survives longer.
 
 Conclusion
 This SFML-based Snake Game in C++ is a polished, feature-rich implementation that captures the essence of the classic game while demonstrating modern programming concepts. It combines real-time graphics, user input, sound effects, and structured game logic into an enjoyable and extensible game framework. It serves both as a complete playable game and a solid foundation for learning or expanding into more advanced 2D game development.
+
+# output
+![Image](https://github.com/user-attachments/assets/e168bf3c-c91c-4c3b-96bf-49d7cebadc82)
